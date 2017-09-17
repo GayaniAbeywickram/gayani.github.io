@@ -49,14 +49,17 @@
 }
 
 .path{
-    box-shadow: inset 0px 0px 6px 10px rgba(869, 233, 59, .8);
+    box-shadow: inset 0px 0px 6px 10px rgba(169, 133, 559, .8);
 }
 .clickpieces{
-    box-shadow: inset 0px 0px 6px 10px rgba(56, 2, 59, .8);
+    box-shadow: inset 0px 0px 6px 10px rgba(568, 896, 759, .8);
 }
 .box1{
     background-color: #888888;
 }
 .box2{
     background-color: silver;
+}
+.cutpiece{
+    box-shadow:inset 0px 0px 6px 10px rgba(230, 50, 60, .7) ;
 }
